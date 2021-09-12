@@ -27,9 +27,12 @@ print("\n")
 days_of_the_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "friday"]
 print(f"days of the week is {days_of_the_week}")
 print(days_of_the_week)
-
+print("")
 
 # Print Index 3 and last index
 print(days_of_the_week[2])
 print(days_of_the_week[-1])
 # change index 4 to the number of that day
+
+days_of_the_week[3] = 4
+print(days_of_the_week)
