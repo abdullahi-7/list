@@ -31,4 +31,5 @@ print(days_of_the_week)
 
 # Print Index 3 and last index
 print(days_of_the_week[2])
+print(days_of_the_week[-1])
 # change index 4 to the number of that day
