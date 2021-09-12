@@ -1,6 +1,12 @@
 ## List
 # List is collection
 # List is also named Collection , Array
-friends = ["Abdullahi", 10, True, "Khadija", 11, False]
-print(f"My frinds are {friends}")
-print("My friends are" , friends)
+# friends = ["Abdullahi", 10, True, "Khadija", 11, False]
+# print(f"My frinds are {friends}")
+# print("My friends are" , friends)
+# print()
+
+## how to manipulate a list
+friends = ["Abdi", "Salim", "Suheil", "Shueib"]
+print(friends[0])
+print(friends[-1])
