@@ -7,6 +7,10 @@
 # print()
 
 ## how to manipulate a list
-friends = ["Abdi", "Salim", "Suheil", "Shueib"]
+friends = ["Abdi", "Salum", "Suheil", "Shueib"]
+print(friends)
 print(friends[0])
 print(friends[-1])
+
+friends[1] = "Hashim"
+print(friends)
