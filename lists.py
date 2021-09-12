@@ -21,10 +21,14 @@
 subject = ["math", "english", "kiswahili", "hygiene"]
 print(f"subject of a school is {subject}")
 print(subject)
-
+print("\n")
 # Exercise 2
 # Write days of the week
+days_of_the_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "friday"]
+print(f"days of the week is {days_of_the_week}")
+print(days_of_the_week)
+
 
 # Print Index 3 and last index
-
+print(days_of_the_week[2])
 # change index 4 to the number of that day
