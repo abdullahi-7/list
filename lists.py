@@ -7,17 +7,20 @@
 # print()
 
 ## how to manipulate a list
-friends = ["Abdi", "Salum", "Suheil", "Shueib"]
-print(friends)
-print(friends[0])
-print(friends[-1])
+# friends = ["Abdi", "Salum", "Suheil", "Shueib"]
+# print(friends)
+# print(friends[0])
+# print(friends[-1])
 
-friends[1] = "Hashim"
-print(friends)
+# friends[1] = "Hashim"
+# print(friends)
 
 # Exercise 1
 # Write a list of school subject and print them
 
+subject = ["math", "english", "kiswahili", "hygiene"]
+print(f"subject of a school is {subject}")
+print(subject)
 
 # Exercise 2
 # Write days of the week
