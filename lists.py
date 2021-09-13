@@ -49,3 +49,10 @@ print("Index number of Tuesday is: ", days_of_the_week.index("Tuesday"))
 
 ## .len() = used to find total items in your list
 print("Total subjects: ",len(subject))
+
+
+#Exercise
+# Find the total number of your projects in the list above
+
+
+
