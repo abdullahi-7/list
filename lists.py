@@ -38,5 +38,5 @@ days_of_the_week[3] = 4
 print(days_of_the_week)
 
 
-## Index()
-print("Index number of Tuesday is: ",days_of_the_week.index("Tuesday"))
+## .index()
+print("Index number of Tuesday is: ", days_of_the_week.index("Tuesday"))
