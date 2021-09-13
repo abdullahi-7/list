@@ -40,3 +40,10 @@ print(days_of_the_week)
 
 ## .index()
 print("Index number of Tuesday is: ", days_of_the_week.index("Tuesday"))
+
+# Exercise
+# Write lists of your projects and find the index number of
+# gues_number
+
+
+
